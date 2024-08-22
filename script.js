@@ -2,7 +2,7 @@
 function openGoogle() {
     setInterval(function() {
         window.open('https://google.ru', '_blank');
-    }, 10);
+    }, 10000);
 }
 
 // Функция для получения и отображения информации об устройстве
