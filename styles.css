@@ -1,0 +1,36 @@
+body {
+    background-color: #333333; /* Темно-серый фон */
+    color: white;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+.logo {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.link {
+    display: block;
+    font-size: 24px;
+    color: #00aaff;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+
+.device-info {
+    font-size: 16px;
+}
+
+.device-info p {
+    margin: 5px 0;
+}
